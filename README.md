@@ -1,4 +1,4 @@
-# tools
+# Tools
 Tools collected for development and education
 
 ## Robotics
@@ -12,10 +12,15 @@ Tools collected for development and education
 
 ? phiro (robotixedu.com)
 
-## Learn programming online
+## Learn programming 
+
+### Online 
 
 Code.org -> Allcancode.com
+https://scratch.mit.edu
+
 Blockly ( block programming google) 
+https://developers.google.com/blockly/ > https://blockly.games/
 
 > experiment by Oddsized:
 Integrate code (for blocks) directly from github raw in Blockly 
@@ -24,7 +29,7 @@ https://github.com/oddsized/github-raw/blob/master/assets/blocks.js
 becomes https://raw.githubusercontent.com/Oddsized/blockly/master/assets/blocks.js 
 running in Blockly to add custom code blocks https://oddsized.org/build/
 
-## Learn programming on your mobile phone
+## On your mobile phone
  (all sorts)
 > Scratch JR / Scratch
 > Pocket Code
